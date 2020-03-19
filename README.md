@@ -23,13 +23,13 @@ Visuals
 [Add screenshots of your application in action]
 
 Application Start
-Image 1
+[Image 1](https://i.imgur.com/dtxvmws.png)
 
 Using the Application
-Image 1
+[Image 1](https://i.imgur.com/YJP23oX.png)
 
 Application End
-Image 1
+[Image 1](https://i.imgur.com/Y6jYWU1.png)
 
 Change Log
 N/A
