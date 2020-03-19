@@ -8,7 +8,7 @@ This is a C# console application that behaves like an ATM at a bank. It will ask
 Getting Started
 Clone this repository to your local machine.
 
-$ git clone [repo clone url here]
+$ git clone https://github.com/suetarazi/Lab2-Unit-Tests-and-Documentation.git
 
 To run the program from Visual Studio:
 Select File -> Open -> Project/Solution
